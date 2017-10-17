@@ -1,5 +1,6 @@
 # Using the application
 <img src="https://github.com/kubar123/Computer-Club/blob/master/Screenshots/1.png" align="right" width="300">
+
 ## Starting the application
 When the application starts, you will be presented with the following GUI screen.
 In this screen you can click on the below navigation buttons.
