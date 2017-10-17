@@ -29,6 +29,7 @@ When an item is deleted or updated, you must resize the window, or click the ‘
 <img src="https://github.com/kubar123/Computer-Club/blob/master/Screenshots/5.png" align="right" width="100">
 When wanting to add a device to a member, the member must first be created. From there, you will need to click on the ‘member report’ button located in the main menu, then, select the member you wish to add a device for, then click the ‘add device’ button (see ‘member report’).
 This window only requires you to enter the CPU. The CPU must be at least 2 characters. When the user has a dedicated GPU, you may click the ‘dedicated GPU’ checkbox, which will allow you to enter the members graphics card. Clicking submit will save the device to the user.
+
 ## Viewing devices
 <img src="https://github.com/kubar123/Computer-Club/blob/master/Screenshots/6.png" align="right" width="300">
 When in the main menu, you may click the ‘device report’ button, to show a list of the devices, and which member they are assigned to.
